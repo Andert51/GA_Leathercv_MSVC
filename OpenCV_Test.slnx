@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="OpenCV_Test/OpenCV_Test.vcxproj" />
+  <Project Path="OpenCV_Test/OpenCV_Test.vcxproj" Id="7c45b99d-6244-47b7-b29e-3dfcbb97423e" />
 </Solution>
